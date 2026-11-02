@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kayra Holistik Enerji</string>
+    <string name="no_browser">Cihazınızda web tarayıcı bulunamadı. Lütfen Play Store\'dan bir tarayıcı yükleyin.</string>
+</resources>

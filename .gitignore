@@ -1,0 +1,15 @@
+# Gradle / Android build output
+.gradle/
+build/
+app/build/
+local.properties
+
+# Signing material: keep out of version control
+keystore.properties
+*.jks
+
+# Kotlin incremental build cache
+.kotlin/
+
+# Local preview screenshots
+preview/
